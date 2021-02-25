@@ -1,6 +1,6 @@
 # Internet of Things :bulb:
 
-The following projects were done as part of requirements of Introduction to Engineering Design Course `@IIITD`.
+The following projects were done as part of requirements of Introduction to Engineering Design Course at `IIITD`.
 
 ## Folder Structure  
 
